@@ -1,0 +1,13 @@
+Id,Manufacturer,Model,Type,Min.Price,Price,Max.Price,MPG.city,MPG.highway,AirBags,DriveTrain,Cylinders,EngineSize,Horsepower,RPM,Rev.per.mile,Man.trans.avail,Fuel.tank.capacity,Passengers,Length,Wheelbase,Width,Turn.circle,Rear.seat.room,Luggage.room,Weight,Origin,Make
+94,Honda,PreludeS,Sporty,17.9,18.6,20.5,26,32,Driver & Passenger,Front,4,2.4,169,5306,2774,Yes,14.7,4,188,102,68,36,22.6,7.7,2997,non-USA,Honda PreludeS
+95,Dodge,ColtZ,Small,8.0,9.0,11.6,31,34,None,Front,4,1.4,88,5449,3423,Yes,12.2,5,172,92,71,32,26.8,11.4,2106,USA,Dodge ColtZ
+96,Mazda,MPVX,Van,16.7,18.0,23.6,18,25,None,4WD,6,3.2,159,4796,2063,No,19.4,7,179,108,78,38,25.4,,3628,non-USA,Mazda MPVX
+97,Pontiac,LeMansPlus,Small,7.8,9.3,8.9,30,39,None,Front,4,1.5,75,5583,3250,Yes,12.6,4,168,92,62,35,25.0,15.5,2234,USA,Pontiac LeMansPlus
+98,Acura,IntegraS,Small,12.3,15.9,18.1,24,28,None,Front,4,1.8,140,5735,2762,Yes,14.3,5,168,95,68,41,25.1,11.4,2847,non-USA,Acura IntegraS
+99,Dodge,DynastyX,Midsize,14.0,16.5,16.3,23,26,Driver only,Front,4,2.7,106,4465,2469,No,16.6,6,206,101,65,44,32.4,15.5,2831,USA,Dodge DynastyX
+100,Geo,StormS,Sporty,11.9,12.2,14.7,28,35,Driver only,Front,4,1.5,98,5808,3093,Yes,12.8,4,174,98,67,35,22.5,11.9,2673,non-USA,Geo StormS
+101,Oldsmobile,AchievaGT,Compact,12.2,12.9,14.6,26,33,None,Front,4,2.3,167,6421,2587,No,16.1,5,194,105,65,42,30.7,13.4,2797,USA,Oldsmobile AchievaGT
+102,Cadillac,SevilleS,Midsize,38.9,41.3,40.3,17,24,Driver & Passenger,Front,8,4.4,310,6180,2124,No,20.6,5,207,102,72,42,29.4,15.3,3851,USA,Cadillac SevilleS
+103,Hyundai,ElantraZ,Small,8.9,9.7,11.3,23,31,None,Front,4,1.7,124,6086,2892,Yes,12.4,5,189,97,63,39,29.4,13.1,2531,non-USA,Hyundai ElantraZ
+104,Toyota,TercelGT,Small,7.9,10.7,10.8,31,35,Driver only,Front,4,1.4,82,5068,3431,Yes,12.7,5,176,86,61,37,23.3,10.5,1971,non-USA,Toyota TercelGT
+105,Ford,AerostarPlus,Van,15.2,20.7,26.3,15,19,Driver only,4WD,6,3.2,154,5152,2252,Yes,21.0,7,176,126,74,47,31.8,,4026,USA,Ford AerostarPlus
